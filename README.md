@@ -5,5 +5,5 @@ Country와 함께하는 Git 교실
 - stash 실습
 
 
-- fast-foward exer
+- fast-foward exer / conflict test
 - 3-way other
