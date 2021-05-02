@@ -1,4 +1,6 @@
 Country와 함께하는 Git 교실
+- cherry-pick exer
+
 - master & feature pr conflict
 
 - rebase 1.2.
